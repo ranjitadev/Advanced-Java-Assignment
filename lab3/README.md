@@ -1,7 +1,7 @@
 # Lab 3 - String Exercises
 
 ### StringHandlingDemo
-
+Code: https://github.com/ranjitadev/Advanced-Java-Assignment/blob/main/lab3/StringHandlingDemo.java
 * Output 1a: https://github.com/ranjitadev/Advanced-Java-Assignment/blob/main/lab3/output1a.png
 * Output 1b: https://github.com/ranjitadev/Advanced-Java-Assignment/blob/main/lab3/output1b.png
 
