@@ -57,4 +57,4 @@ Each lab contains:
 
 ## 👨‍💻 Author
 
-**Ranjitadev**
+RANJITHA
